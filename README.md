@@ -1,5 +1,4 @@
-# Chall_DS_Latam_NW
-Chall_DS_Latam_NW
+# Challenge DS Latam NW
 
 En el presente desafío se tiene una base de datos pública de vuelos (despegues y aterrizajes) en una ventana de tiempo de un año. El problema consiste en predecir la probabilidad de atraso de los vuelos que aterrizan o despegan del aeropuerto de Santiago de Chile (SCL). Cada fila corresponde a un vuelo que aterrizó o despegó de SCL, y cada columna representa variables que pueden o no ser relevantes.
 
